@@ -135,6 +135,28 @@ a {
     align-self: center;
 }
 
+.quote-section,
+.modal-section {
+    padding: 120px 300px;
+}
+
+.quote-section {
+    flex-direction: column;
+    background: #e5e7eb;
+}
+
+.quote {
+    font-style: italic;
+    font-size: 36px;
+    font-weight: 300;
+    color: #1f2937;
+}
+
+.quote-author {
+    font-size: 24px;
+    font-weight: 900;
+    align-self: flex-end;
+}
 
 
 .footer {
