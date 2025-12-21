@@ -1,6 +1,6 @@
 # Odin Landing Page
 
-This web page is based on a design provided from The Odin Project using an image of the complete website and an image containing some details about some of the fonts and colors used. 
+This web page accessible at https://dianedoan.github.io/odin-landing-page/ is based on a design provided from The Odin Project using an image of the complete website and an image containing some details about some of the fonts and colors used. 
 
 ![complete website screenshot](https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png)
 
